@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 happy new year congratulation you have happy day everyday!!
+=======
+happy new year congratulation you have happy day everyday!!
+>>>>>>> a8e2260ae201f56374a52d89ce889908316dfb5b
 happy birthday!!
