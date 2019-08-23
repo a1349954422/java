@@ -5,4 +5,6 @@
 ### 第五章
 [练习](https://github.com/a1349954422/java/tree/master/chapter5)
 ### 第六章
-[练习](https://github.com/a1349954422/java/tree/master/chapter6/calculator)
+[练习](https://github.com/a1349954422/java/tree/master/chapter6)
+### 第七章
+[练习](https://github.com/a1349954422/java/tree/master/chapter7)
