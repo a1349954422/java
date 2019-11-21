@@ -342,7 +342,7 @@ public class GameCanvas extends JPanel {
 
         private void appendToFundation(Card tCard, int fCol) {
             tCard.setX(columnLeft(fCol));
-            tCard.setX(Consts.FOUNDATION_Y);
+            tCard.setY(Consts.FOUNDATION_Y);
             theFoundation[fCol].add(tCard);
         }
 
